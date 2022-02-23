@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pbelokon/pbelokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/d8bcZoRr3a6Q2R1DrE/giphy.gif"  width="240" height="240"/>  
+</div>
+
+### Hi there 👋
 🎓 I am currently enrolled in Computer Programming & Analysis (CPA) program at Seneca College 
+
+
