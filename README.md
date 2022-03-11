@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/d8bcZoRr3a6Q2R1DrE/giphy.gif"  width="120" height="120"/>  
+  <hr>
 </div>
+
 
 ### Hi there 👋
 🎓 I am currently enrolled in Computer Programming & Analysis (CPA) program at Seneca College 
