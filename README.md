@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![banner](https://user-images.githubusercontent.com/88114764/158102038-6a2f1c92-5630-4d33-8480-dea008675c40.jpg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/d8bcZoRr3a6Q2R1DrE/giphy.gif"  width="120" height="120"/>  
   <hr>
 </div>
 
 
-### Hi there 👋
-🎓 I am currently enrolled in Computer Programming & Analysis (CPA) program at Seneca College 
-
+### Hi 👋 Welcome to my github page
+- 🧑🏽 I am Pavel, I am 18 years old
+- 🎓 I am learning JS/CSS/HTML/THREEJS/C++/SQL
+- 🌏 I was born in Kazahstan 🇰🇿 but now I am studing in Canada 🇨🇦
+- ⚡ I like drowing 🎨 programming 💻 and reading manga 📔
 
