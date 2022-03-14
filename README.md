@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hi 👋 Welcome to my github page
 - 🧑🏽 I am Pavel, I am 18 years old
-- 🎓 I am learning JS/CSS/HTML/THREEJS/C++/SQL
+- 🎓 I am learning JS/CSS/HTML/THREEJS/C++/SQL/RUST
 - 🌏 I was born in Kazahstan 🇰🇿 but now I am studing in Canada 🇨🇦
-- ⚡ I like drowing 🎨 programming 💻 and reading manga 📔
+- ⚡ I like drowing 🎨 programming 🐱‍💻 and reading manga 📔
 
