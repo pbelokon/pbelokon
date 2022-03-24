@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://user-images.githubusercontent.com/88114764/158102038-6a2f1c92-5630-4d33-8480-dea008675c40.jpg)
+![FF9r_b3XMAcNJa2](https://user-images.githubusercontent.com/88114764/160023218-5ce292ec-f798-4633-85aa-52fd3e4a7f52.jpg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/d8bcZoRr3a6Q2R1DrE/giphy.gif"  width="120" height="120"/>  
   <hr>
